@@ -1,4 +1,4 @@
-[![MasterHead](https://as2.ftcdn.net/v2/jpg/02/97/07/81/1000_F_297078136_J3kH3VoAy4QcVuGbF0HQP2BaNCpaF7gP.jpg)]
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)]
 <h1 align="center">Hi 👋, I'm Bridget Mudiaga</h1>
 <h3 align="center">A passionate frontend developer in Germany</h3>
 <img align="right" alt="Coding Image" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
